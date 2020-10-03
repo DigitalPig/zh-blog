@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 理解线性代数的好课本
-published: false
+published: true
 category: 数学, 代数, 机器学习
 tags: math, algebra, linear-algebra, machine-learning
 ---
